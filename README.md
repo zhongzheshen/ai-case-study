@@ -1,5 +1,4 @@
 # ai-case-study
-assignment1
 
 ## Title
 
